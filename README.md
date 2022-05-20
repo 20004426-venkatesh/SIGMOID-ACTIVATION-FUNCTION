@@ -92,7 +92,7 @@ if __name__=="__main__":
 ```
 
 ## Output:
-![Screenshot_640]()
+![img](https://github.com/20004426-venkatesh/SIGMOID-ACTIVATION-FUNCTION/blob/main/nn5.jpg)
 
 
 ## Result:
